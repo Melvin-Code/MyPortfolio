@@ -46,6 +46,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
       "name": "climateChange",
       "createdAt": "2021-11-07T11:53:55Z",
+      "site": "https://rapidapi.com/melvingonzalez470-L5zZ4O-zNhN/api/climate-change-live-news5",
       "url": "https://github.com/Melvin-Code/climate-change",
       "description": "A fun api that scrapes diferent major news website and returns the lates news about climate change",
       "isFork": false,
