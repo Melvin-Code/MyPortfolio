@@ -26,6 +26,7 @@ class ProjectLanguages extends Component {
                     <span
                       className="iconify"
                       data-icon={logo.iconifyClass}
+                      style={logo.style ? logo.style : null}
                       data-inline="false"
                     ></span>
                   </li>
