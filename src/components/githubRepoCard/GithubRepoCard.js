@@ -2,6 +2,7 @@ import React from "react";
 import ProjectLanguages from "../../components/projectLanguages/ProjectLanguages";
 import "./GithubRepoCard.css";
 import { Fade } from "react-reveal";
+import Button from "../button/Button";
 
 export default function GithubRepoCard({ repo, theme }) {
   function openRepoinNewTab(url) {
@@ -15,7 +16,7 @@ export default function GithubRepoCard({ repo, theme }) {
         <div
           className="repo-card-div"
           key={repo.id}
-          onClick={() => openRepoinNewTab(repo.url)}
+          // onClick={() => openRepoinNewTab(repo.url)}
           style={{ backgroundColor: theme.highlight }}
         >
           <div className="repo-name-div">
@@ -50,6 +51,31 @@ export default function GithubRepoCard({ repo, theme }) {
               className="repo-languages"
               logos={repo.languages}
             />
+          </div>
+          <div
+            style={{
+              display: "flex",
+              // justifyContent: "space-between",
+            }}
+          >
+            {repo.site ? (
+              <Button
+                style={{ marginRight: "24px" }}
+                // style={{ margin: "0 64px 0 0 !important" }}
+                text="Visit Site"
+                newTab={true}
+                href={repo.site}
+                theme={theme}
+              />
+            ) : null}
+            {repo.url ? (
+              <Button
+                text="See The Code"
+                newTab={true}
+                href={repo.url}
+                theme={theme}
+              />
+            ) : null}
           </div>
           {/* <div className="repo-stats">
           <div className="repo-left-stat">

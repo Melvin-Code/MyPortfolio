@@ -4,7 +4,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "irelandPaySite",
       "createdAt": "2022-03-28T16:26:54Z",
-      "url": "https://irelandpay.com",
+      "site": "https://irelandpay.com",
       "description": "The main website for the payment proccesing companny Irelandpay ",
       "isFork": false,
       "languages": [
@@ -60,6 +60,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
       "name": "TFC-Project",
       "createdAt": "2020-03-29T14:24:55Z",
+      "site": "https://tfc-project.netlify.app/",
       "url": "https://github.com/Melvin-Code/TFC-project",
       "description": "This is a demo site that I created to display some of my CSS and React skills",
       "isFork": false,
@@ -74,24 +75,6 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "SuperSupervisor",
-      "createdAt": "2020-01-26T05:00:56Z",
-      "url": "https://github.com/Melvin-Code/Super-Supervisor",
-      "description": "This was a fun 2D game created with Phaser.js",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
         },
         {
           "name": "JavaScript",
