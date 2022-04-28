@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/1kxfqE0zbn4bUXfDRox2vtKB5YRpKYS9a/view?usp=sharing",
   portfolio_repository: "https://github.com/Melvin-Code/MyPortfolio",
   githubProfile: "https://github.com/Melvin-Code",
 };
