@@ -1,15 +1,19 @@
 .contact-main {
   width: 100%;
+  height: 100vh;
+  position: relative;
 }
 
 .basic-contact {
   margin-left: 5%;
   margin-right: 5%;
-  margin-top: 25%;
-  transform: translateY(-50%);
 }
 
 .contact-heading-div {
+  /* position: sticky;
+  
+  top: 50%;
+  transform: translateY(11%) !important; */
   display: flex;
 }
 
@@ -48,6 +52,7 @@
 
 .contact-heading-text-div {
   margin-top: 12.5px;
+  max-width: 679.062px;
   text-align: center;
   display: flex;
   flex-direction: column;

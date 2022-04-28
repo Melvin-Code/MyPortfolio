@@ -132,7 +132,16 @@ class Contact extends Component {
             </div>
           </Fade> */}
         </div>
-        <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
+        <div
+          style={{
+            position: "absolute",
+            left: "50%",
+            bottom: 0,
+            transform: "translateX(-50%)",
+          }}
+        >
+          <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
+        </div>
         <TopButton theme={this.props.theme} />
       </div>
     );
