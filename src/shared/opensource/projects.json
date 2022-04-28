@@ -32,6 +32,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
       "name": "Airtable-export-to-CSV",
       "createdAt": "2022-01-09T13:13:00Z",
+      "site": "https://rapidapi.com/melvingonzalez470-L5zZ4O-zNhN/api/airtable-export",
       "url": "https://github.com/Melvin-Code/airtable-export-to-csv",
       "description": "An api that can take any table from Airtable and export it to a csv file",
       "isFork": false,
