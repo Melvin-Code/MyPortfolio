@@ -614,7 +614,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on the following social media. You can message me, I will reply within 24 hours. I can help you with Rest API React, Android, Cloud and Opensource Development.",
+      "I am available on the following social media. You can message me, I will reply within 24 hours. I can help you with Rest API, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
