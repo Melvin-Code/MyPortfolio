@@ -91,8 +91,8 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable Rest API's",
-        "⚡ Experience on creating automation via api for third-party software",
-        "⚡ Complex web-scarping automations using technologies such as Cherio and Puppeteer",
+        "⚡ Creating automations via API for third-party software",
+        "⚡ Complex web-scarping automations using technologies such as Cheerio and Pupeteer",
       ],
       softwareSkills: [
         {
@@ -125,9 +125,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
+        "⚡ Building responsive website front-end using React-Redux",
         "⚡ Developing mobile applications using React Native ",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Creating application back-end in Node, Express & Flask",
       ],
       softwareSkills: [
         {
@@ -597,7 +597,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create front-end aplications, although I have a roubust experience with back-end infrastructure.",
+    "My projects make use of vast variety of the latest technology tools. I specialize in creating front-end aplications, however I also have roubust experience with back-end infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -614,7 +614,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Rest API React, Android, Cloud and Opensource Development.",
+      "I am available on the following social media. You can message me, I will reply within 24 hours. I can help you with Rest API React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",

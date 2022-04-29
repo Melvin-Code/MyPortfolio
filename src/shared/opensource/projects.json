@@ -34,7 +34,7 @@
       "createdAt": "2022-01-09T13:13:00Z",
       "site": "https://rapidapi.com/melvingonzalez470-L5zZ4O-zNhN/api/airtable-export",
       "url": "https://github.com/Melvin-Code/airtable-export-to-csv",
-      "description": "An api that can take any table from Airtable and export it to a csv file",
+      "description": "An API that can take any table from Airtable and export it to a CSV file",
       "isFork": false,
       "languages": [
         {
@@ -49,7 +49,7 @@
       "createdAt": "2021-11-07T11:53:55Z",
       "site": "https://rapidapi.com/melvingonzalez470-L5zZ4O-zNhN/api/climate-change-live-news5",
       "url": "https://github.com/Melvin-Code/climate-change",
-      "description": "A fun api that scrapes diferent major news website and returns the lates news about climate change",
+      "description": "An API that scrapes major news websites and returns the latest news about climate change",
       "isFork": false,
       "languages": [
         {
